@@ -271,54 +271,14 @@
     ],
     "afternoon": [
      {
-      "id": "s-naha#41",
-      "t": "美國村（アメリカンビレッジ） ✅",
-      "kind": "spot",
+      "t": "PARCO CITY（サンエー浦添西海岸 PARCO CITY）",
+      "kind": "shop",
       "place": "naha",
       "min": 150,
-      "src": "user",
-      "by": "?",
-      "endorse": [],
-      "lat": 26.3165214,
-      "lng": 127.7573637,
-      "sub": [
-       {
-        "t": "美式古著店（配件）",
-        "min": 30,
-        "lat": 26.3165214,
-        "lng": 127.7573637,
-        "kind": "shop"
-       },
-       {
-        "t": "吉伊卡哇店（紅色）",
-        "min": 20,
-        "lat": 26.3165214,
-        "lng": 127.7573637,
-        "kind": "shop"
-       },
-       {
-        "t": "拍照（摩天輪）",
-        "min": 15,
-        "lat": 26.3165214,
-        "lng": 127.7573637,
-        "kind": "spot"
-       }
-      ],
-      "subLegs": {
-       "0": {
-        "mode": "walk"
-       },
-       "1": {
-        "mode": "walk"
-       },
-       "2": {
-        "mode": "walk"
-       },
-       "3": {
-        "mode": "walk"
-       }
-      },
-      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Mihama%20Town%20Resort%20American%20Village%2020160720.jpg?width=960"
+      "lat": 26.2625307,
+      "lng": 127.6986621,
+      "desc": "浦添大型商場（約 250 店）・海景美食街・免稅退稅服務；雨天備案首選",
+      "endorse": []
      },
      {
       "id": "x-naha-surugaya",
@@ -611,5 +571,5 @@
  "finalized": false,
  "created": "2026-10-15T11:30:00Z",
  "_rs": 1,
- "updated": "2026-10-24T07:38:36.236Z"
+ "updated": "2026-10-24T07:45:02.806Z"
 }
