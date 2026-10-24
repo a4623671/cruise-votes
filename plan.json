@@ -243,34 +243,7 @@
   },
   "2026-12-18": {
    "slots": {
-    "morning": [
-     {
-      "id": "s-naha#42",
-      "t": "美國村 美食迴轉壽司（グルメ迴轉壽司）✅",
-      "kind": "food",
-      "place": "naha",
-      "min": 60,
-      "src": "user",
-      "by": "帆",
-      "endorse": [],
-      "lat": 26.3165214,
-      "lng": 127.7573637,
-      "imgs": [
-       "https://commons.wikimedia.org/wiki/Special:FilePath/Conveyor%20belt%20sushi%20at%20Mashiro%20Sushi.jpg?width=960",
-       "https://commons.wikimedia.org/wiki/Special:FilePath/Kappa-zushiPB222258%E3%81%8B%E3%81%A3%E3%81%B1%E5%AF%BF%E5%8F%B8%E5%BA%97%E5%86%85.jpg?width=960"
-      ],
-      "imgc": "示意圖（迴轉壽司）",
-      "dishes": [
-       "鮪魚三貫盛（一盤 ¥120 起）",
-       "海葡萄軍艦",
-       "沖繩天婦羅（沖縄天ぷら）",
-       "味噌湯（免費）"
-      ],
-      "from": "10:30",
-      "skip": true,
-      "desc": "（因 PARCO CITY 10:00–13:30 時段衝突，先標記跳過；要保留請告知）"
-     }
-    ],
+    "morning": [],
     "afternoon": [
      {
       "t": "PARCO CITY（サンエー浦添西海岸 PARCO CITY）",
@@ -442,21 +415,18 @@
      "mode": "taxi"
     },
     "1": {
-     "mode": "mono"
-    },
-    "2": {
      "mode": "taxi"
     },
-    "3": {
+    "2": {
      "mode": "walk"
     },
-    "4": {
+    "3": {
      "mode": "walk"
     }
    },
    "mealMin": 60,
    "portMode": {
-    "in": "mono",
+    "in": "taxi",
     "out": "mono"
    },
    "off": "08:00",
@@ -575,5 +545,5 @@
  "finalized": false,
  "created": "2026-10-15T11:30:00Z",
  "_rs": 1,
- "updated": "2026-10-24T07:48:03.100Z"
+ "updated": "2026-10-24T07:48:23.822Z"
 }
